@@ -20,4 +20,6 @@ img
 ![naam plaatje](url plaatje)
 ```` cs
 int nummer = 10;
+if (nummer == 10)
+    Debug.log("ja");
 ````
